@@ -1,0 +1,12 @@
+1.Who Is/Are The Best In The World?(A)Yourself(B)Elon Musk(C)Duh...The Programmers Of This(D)None Of The Above
+#
+2.What Is The Best Thing In The World?(A)Cars(B)More Cars(C)Cars Everywhere(D)Definitely Not Cars...Ughh
+#
+3.Whom Should You Be The Most Thankful To?(A)Your Parents(B)The Programmers(C)Yourself(D)Someone Else
+#
+4.Have You Ever Won A Swimming Competition?(A)Yes(B)No(C)I Cant Swim(D)Thats Why I Even Exist...
+#
+  How Many Questions Have You Been Asked?(Hint-From The Very Beginning Of The Program)
+#
+6.Want A Cake?(A)Yes(B)Yes(C)Yes(D)Yes
+#
